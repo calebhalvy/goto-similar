@@ -1,0 +1,6 @@
+[
+  {
+    "caption": "Go To Similar: Show panel",
+    "command": "show_similar"
+  },
+]

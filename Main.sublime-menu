@@ -1,0 +1,28 @@
+[
+    {
+        "mnemonic": "n", 
+        "caption": "Preferences", 
+        "id": "preferences", 
+        "children": [
+            {
+                "mnemonic": "P", 
+                "caption": "Package Settings", 
+                "id": "package-settings", 
+                "children": [
+                    {
+                        "caption": "Goto Similar", 
+                        "children": [
+                            {
+                                "caption": "Key Bindings – Default", 
+                                "args": {
+                                    "file": "${packages}/goto-similar/Default (Windows).sublime-keymap"
+                                }, 
+                                "command": "open_file"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
